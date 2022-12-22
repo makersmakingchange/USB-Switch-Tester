@@ -56,8 +56,8 @@ Reference the [Assembly Guide](/Documentation/USB_Switch_Tester_Assembly_Guide_v
 | Changelog            | 1.0     | [USB_Switch_Tester_Changelog](/Documentation/USB_Switch_Tester_Changelog_v1.0.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files/CAD)
-[PCB Design Files](/Design_Files/PCB)
+ - [CAD Files](/Design_Files/CAD)
+ - [PCB Design Files](/Design_Files/PCB)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
