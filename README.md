@@ -1,7 +1,7 @@
 # USB SWITCH TESTER
 The USB Switch Tester is a device used to test the functionality of an assistive switch with a 3.5 mm connection
 
-<img src="Photos/USB-Switch-Tester.png" width="500" alt="Picture of USB Switch Tester.">
+<img src="Photos/USB_Switch_Tester.png" width="500" alt="Picture of USB Switch Tester.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/USB-Switch-Tester)
