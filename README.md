@@ -1,11 +1,10 @@
 # USB SWITCH TESTER
-The USB Switch Tester is a device used to test the functionality of an assistive switch with a 3.5 mm connection
+The USB Switch Tester is used to test the functionality of an assistive switch with a 3.5 mm connection.
 
 <img src="Photos/USB_Switch_Tester.png" width="500" alt="Picture of USB Switch Tester.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/USB-Switch-Tester)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/USB-Switch-Tester/)
 
 
 ## How to Obtain a USB Switch Tester
@@ -47,13 +46,13 @@ Reference the [Assembly Guide](/Documentation/USB_Switch_Tester_Assembly_Guide_v
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [USB_Switch_Tester_Design_Rationale](/Documentation/USB_Switch_Tester_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [USB_Switch_Tester_Checklist](/Documentation/USB_Switch_Tester_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [USB_Switch_Tester_Bill_of_Materials](/Documentation/USB_Switch_Tester_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [USB_Switch_Tester_3D_Printing_Guide](/Documentation/USB_Switch_Tester_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [USB_Switch_Tester_Assembly_Guide](/Documentation/USB_Switch_Tester_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [USB_Switch_Tester_User_Guide](/Documentation/USB_Switch_Tester_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [USB_Switch_Tester_Changelog](/Documentation/USB_Switch_Tester_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [USB_Switch_Tester_Design_Rationale](/Documentation/USB_Switch_Tester_Design_Rationale.pdf)     |
+| Maker Checklist      | 1.0     | [USB_Switch_Tester_Checklist](/Documentation/USB_Switch_Tester_Maker_Checklist.pdf)     |
+| Bill of Materials    | 1.0     | [USB_Switch_Tester_Bill_of_Materials](/Documentation/USB_Switch_Tester_BOM.xlsx)     |
+| 3D Printing Guide    | 1.0     | [USB_Switch_Tester_3D_Printing_Guide](/Documentation/USB_Switch_Tester_3D_Printing_Guide.pdf)     |
+| Assembly Guide       | 1.0     | [USB_Switch_Tester_Assembly_Guide](/Documentation/USB_Switch_Tester_Assembly_Guide.pdf)     |
+| User Guide           | 1.0     | [USB_Switch_Tester_User_Guide](/Documentation/USB_Switch_Tester_User_Guide.pdf)    |
+| Changelog            | 1.0     | [USB_Switch_Tester_Changelog](/Documentation/USB_Switch_Tester_Changelog.pdf)     |
 
 ### Design Files
  - [CAD Files](/Design_Files/CAD)
@@ -69,15 +68,14 @@ Designers:
  - Derrick Andrews
 
 
-
 ## License
-Everything needed or used to design, make, test, or prepare the USB Switch Tester is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the USB Switch Tester is licensed under the CERN 2.0 Weakly Reciprocal license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-W) . 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the USB Switch Tester are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -95,3 +93,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
