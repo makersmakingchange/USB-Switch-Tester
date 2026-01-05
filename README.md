@@ -4,7 +4,7 @@ The USB Switch Tester is used to test the functionality of an assistive switch w
 <img src="Photos/USB_Switch_Tester.png" width="500" alt="Picture of USB Switch Tester.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/USB-Switch-Tester)
+- [Makers Making Change Assistive Device Library ](https://www.makersmakingchange.com/product/usb-switch-tester/01tJR000000690rYAA)
 
 
 ## How to Obtain a USB Switch Tester
@@ -14,7 +14,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a USB Switch Tester , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/USB-Switch-Tester/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a USB Switch Tester , you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/product/usb-switch-tester/01tJR000000690rYAA). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -29,7 +29,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/USB_Switch_Tester_BOM_v1.0.xlsx) lists all of the parts and components required to build the USB Switch Tester. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/USB_Switch_Tester_BOM.xlsx) lists all of the parts and components required to build the USB Switch Tester. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
 ### 3. Print the 3D Printable components
@@ -40,7 +40,7 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 4. Assemble the USB Switch Tester
 
-Reference the [Assembly Guide](/Documentation/USB_Switch_Tester_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/USB_Switch_Tester_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
@@ -76,6 +76,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 ---
 <!-- ABOUT MMC START -->
+
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
